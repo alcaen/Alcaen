@@ -13,7 +13,7 @@
   srcset="https://skillicons.dev/icons?i=js,html,css,ts,py,react,docker,tailwind,nest,next,express,nodejs,git,vscode,materialui,mongo,mysql,postgres,redis,vercel,netlify,php,planetscale,postman,prisma,supabase,sass,githubactions,firebase,laravel&theme=light"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://skillicons.dev/icons?i=js,html,css,ts,py,react,docker,tailwind,nest,next,express,nodejs,git,vscode,materialui,mongo,mysql,postgres,redis,vercel,netlify,php,planetscale,postman,prisma,supabase,sass,githubactions,firebase,laravel" />
+<img src="https://skillicons.dev/icons?i=html,css,ts,py,react,docker,tailwind,nest,next,express,nodejs,git,vscode,materialui,mongo,mysql,postgres,redis,vercel,netlify,php,planetscale,postman,prisma,supabase,sass,githubactions,firebase,laravel" />
 </picture>
 
 </div>
