@@ -1,8 +1,21 @@
-<div align='center'>
-	<h2>Hi there, I'm <a target='_blank' href='https://portfolio-alcaen.vercel.app/'>Alcaen.</a> FullStack Developer 👋</h2>
-</div>
+<h1 align="center">Hi 👋, I'm Alcaen</h1>
+<h3 align="center">A passionate fullstack developer from Colombia</h3
 
-<h2 align='center'>My tools</h2>
+- 🔭 I’m currently working on **Service Desk**
+
+- 🌱 I’m currently learning **Laravel and React Native**
+
+- 👨‍💻 All of my projects are available at [https://portfolio-alcaen.vercel.app/projects](https://portfolio-alcaen.vercel.app/projects)
+
+- 📫 How to reach me **alcaen.dev@gmail.com**
+
+- 📄 Know about my experiences [https://portfolio-alcaen.vercel.app/CV](https://portfolio-alcaen.vercel.app/CV)
+
+- ⚡ Fun fact **In love with Next Js**
+
+- 👻 Favorite tech **Next Js, Tailwind Css, tRpc, Prisma, TypeScript.**
+
+<h2 align='center'>Languages and Tools:</h2>
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,html,css,ts,py,react,docker,tailwind,nest,next,astro,figma,express,nodejs,git,github,c,vscode,arduino,md,materialui,mongo,mysql,postgres,redis,vercel,netlify,php,planetscale,postman,prisma,powershell,supabase,sass,githubactions,firebase,laravel,linux,matlab,redux,stackoverflow,vite&theme=light" />
@@ -38,26 +51,19 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcaen&layout=compact" />
 </picture>
 
+<picture>
+<source 
+  srcset="https://github-readme-streak-stats.herokuapp.com/?user=alcaen&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-streak-stats.herokuapp.com/?user=alcaen&theme=buefy"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alcaen" />
+</picture>
+
 </div>
-
----
-
-### Favorite tech
-
-- Next Js.
-- Tailwind Css.
-- tRpc.
-- Prisma.
-- TypeScript.
-
-### I’m currently working on
-
-- Service Desk App.
-
-### I’m currently learning
-
-- React Native / Expo.
-- Laravel.
 
 ---
 
@@ -90,4 +96,6 @@ STATS
 https://github.com/anuraghazra/github-readme-stats
 BADGES
 https://badgen.net/
+GENERATOR
+https://rahuldkjain.github.io/gh-profile-readme-generator/
  -->
