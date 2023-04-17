@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alcaen</h1>
-<h3 align="center">A passionate fullstack developer from Colombia</h3
+<h3 align="center">A passionate FullStack developer from Colombia</h3
 
 <p align='left'>
 
@@ -28,21 +28,6 @@
 
 ---
 
-<!-- GitHub Stats -->
-<div align='center'>
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=alcaen&show_icons=true&theme=tokyonight"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=alcaen&show_icons=true&theme=buefy"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=alcaen&show_icons=true"/>
-</picture>
-</div>
-
 <!-- Streak -->
 <div align='center'>
 <picture>
@@ -55,6 +40,21 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alcaen" />
+</picture>
+</div>
+
+<!-- GitHub Stats -->
+<div align='center'>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=alcaen&show_icons=true&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=alcaen&show_icons=true&theme=buefy"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=alcaen&show_icons=true"/>
 </picture>
 </div>
 
