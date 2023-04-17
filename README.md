@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alcaen</h1>
 <h3 align="center">A passionate fullstack developer from Colombia</h3
 
+<p align='left'>
+
 - 🔭 I’m currently working on **Service Desk**
 
 - 🌱 I’m currently learning **Laravel and React Native**
@@ -14,6 +16,8 @@
 - ⚡ Fun fact **In love with Next Js**
 
 - 👻 Favorite tech **Next Js, Tailwind Css, tRpc, Prisma, TypeScript.**
+
+</p>
 
 <h2 align='center'>Languages and Tools:</h2>
 <div align="center">
@@ -38,6 +42,19 @@
 <img src="https://github-readme-stats.vercel.app/api?username=alcaen&show_icons=true"/>
 </picture>
 
+<!-- Streak -->
+<picture>
+<source 
+  srcset="https://github-readme-streak-stats.herokuapp.com/?user=alcaen&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-streak-stats.herokuapp.com/?user=alcaen&theme=buefy"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alcaen" />
+</picture>
+
 <!-- Most used Languajes -->
 <picture>
 <source 
@@ -49,18 +66,6 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcaen&layout=compact" />
-</picture>
-
-<picture>
-<source 
-  srcset="https://github-readme-streak-stats.herokuapp.com/?user=alcaen&theme=tokyonight"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-streak-stats.herokuapp.com/?user=alcaen&theme=buefy"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alcaen" />
 </picture>
 
 </div>
