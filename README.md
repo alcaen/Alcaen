@@ -7,7 +7,7 @@
 <picture>
 <source 
   srcset="https://skillicons.dev/icons?i=js,html,css,ts,py,react,docker,tailwind,nest,next,astro,figma,express,nodejs,git,github,c,vscode,arduino,md,materialui,mongo,mysql,postgres,redis,vercel,netlify,php,planetscale,postman,prisma,powershell,supabase,sass,githubactions,firebase,laravel,linux,matlab,redux,stackoverflow,vite&theme=dark"
-  media="(prefers-color-scheme: dark),"
+  media="(prefers-color-scheme: dark)"
 />
 <source
   srcset="https://skillicons.dev/icons?i=js,html,css,ts,py,react,docker,tailwind,nest,next,astro,figma,express,nodejs,git,github,c,vscode,arduino,md,materialui,mongo,mysql,postgres,redis,vercel,netlify,php,planetscale,postman,prisma,powershell,supabase,sass,githubactions,firebase,laravel,linux,matlab,redux,stackoverflow,vite&theme=light"
