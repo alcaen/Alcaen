@@ -1,6 +1,9 @@
 <div align='center'>
-	<p>Hi there, I'm <a href='https://portfolio-alcaen.vercel.app/'>Alcaen</a>👋</p>
+	<h2>Hi there, I'm <a href='https://portfolio-alcaen.vercel.app/'>Alcaen</a>👋</h2>
+	<h3>Full Stack Developer</h3>
 </div>
+
+---
 
 <h2 align='center'>My tools</h2>
 <div align="center">
@@ -9,15 +12,17 @@
 
 </div>
 
+---
+
 <div align='center'>
 <!-- GitHub Stats -->
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=alcaen&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=alcaen&show_icons=true&theme=tokyonight"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=alcaen&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=alcaen&show_icons=true&theme=buefy"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=alcaen&show_icons=true"/>
@@ -26,11 +31,11 @@
 <!-- Most used Languajes -->
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alcaen&layout=compact&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alcaen&layout=compact&hide_progress=true&theme=tokyonight"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alcaen&layout=compact"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alcaen&layout=compact&hide_progress=true&theme=buefy"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcaen&layout=compact" />
@@ -38,7 +43,9 @@
 
 </div>
 
-#### Favorite tech
+---
+
+### Favorite tech
 
 - Next Js.
 - Tailwind Css.
@@ -46,11 +53,11 @@
 - Prisma.
 - TypeScript.
 
-#### I’m currently working on
+### I’m currently working on
 
 - Service Desk App.
 
-#### I’m currently learning
+### I’m currently learning
 
 - React Native / Expo.
 - Laravel.
@@ -71,3 +78,17 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </div>
+
+<div align='right'>
+  <img src='https://badgen.net/github/commits/alcaen/alcaen' />
+  <img src='https://badgen.net/github/tag/alcaen/alcaen' />
+</div>
+
+<!-- Tools used
+ICONS
+https://github.com/tandpfun/skill-icons
+STATS
+https://github.com/anuraghazra/github-readme-stats
+BADGES
+https://badgen.net/
+ -->
