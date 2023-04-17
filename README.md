@@ -6,14 +6,14 @@
 <div align="center">
 <picture>
 <source 
-  srcset="https://skillicons.dev/icons?i=js,html,css,ts,py,react,docker,tailwind,nest,next,astro,figma,express,nodejs,git,github,c,vscode,arduino,md,materialui,mongo,mysql,postgres,redis,vercel,netlify,php,planetscale,postman,prisma,powershell,supabase,sass,githubactions,firebase,laravel,linux,matlab,redux,stackoverflow,vite&theme=dark"
+  srcset="https://skillicons.dev/icons?i=js,html,css,ts,py,react,docker,tailwind,nest,next,express,nodejs,git,vscode,materialui,mongo,mysql,postgres,redis,vercel,netlify,php,planetscale,postman,prisma,supabase,sass,githubactions,firebase,laravel&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://skillicons.dev/icons?i=js,html,css,ts,py,react,docker,tailwind,nest,next,astro,figma,express,nodejs,git,github,c,vscode,arduino,md,materialui,mongo,mysql,postgres,redis,vercel,netlify,php,planetscale,postman,prisma,powershell,supabase,sass,githubactions,firebase,laravel,linux,matlab,redux,stackoverflow,vite&theme=light"
+  srcset="https://skillicons.dev/icons?i=js,html,css,ts,py,react,docker,tailwind,nest,next,express,nodejs,git,vscode,materialui,mongo,mysql,postgres,redis,vercel,netlify,php,planetscale,postman,prisma,supabase,sass,githubactions,firebase,laravel&theme=light"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://skillicons.dev/icons?i=js,html,css,ts,py,react,docker,tailwind,nest,next,astro,figma,express,nodejs,git,github,c,vscode,arduino,md,materialui,mongo,mysql,postgres,redis,vercel,netlify,php,planetscale,postman,prisma,powershell,supabase,sass,githubactions,firebase,laravel,linux,matlab,redux,stackoverflow,vite" />
+<img src="https://skillicons.dev/icons?i=js,html,css,ts,py,react,docker,tailwind,nest,next,express,nodejs,git,vscode,materialui,mongo,mysql,postgres,redis,vercel,netlify,php,planetscale,postman,prisma,supabase,sass,githubactions,firebase,laravel" />
 </picture>
 
 </div>
@@ -42,7 +42,7 @@
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alcaen&layout=compact"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcaen&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcaen&layout=compact"/>
 </picture>
 
 </div>
@@ -50,7 +50,7 @@
 #### Favorite tech
 
 - Next Js.
-- Tailwind Css.
+- Tailwind CSS.
 - tRpc.
 - Prisma.
 - TypeScript.
