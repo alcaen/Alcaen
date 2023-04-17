@@ -1,6 +1,5 @@
 <div align='center'>
-	<h2>Hi there, I'm <a href='https://portfolio-alcaen.vercel.app/'>Alcaen</a>👋</h2>
-	<h3>Full Stack Developer</h3>
+	<h2>Hi there, I'm <a target='_blank' href='https://portfolio-alcaen.vercel.app/'>Alcaen</a> Full Stack Developer 👋</h2>
 </div>
 
 ---
@@ -62,19 +61,21 @@
 - React Native / Expo.
 - Laravel.
 
+---
+
 <!-- Connect -->
 <h2 align='center'>Let's Connect</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/alcaen/">
+  <a target='_blank' href="https://www.linkedin.com/in/alcaen/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-	<a href="https://discordapp.com/users/325795253619785729">
+	<a target='_blank' href="https://discordapp.com/users/325795253619785729">
     <img src="https://skillicons.dev/icons?i=discord" />
 	</a>
-	<a href="https://twitter.com/alejocaicedosac">
+	<a target='_blank' href="https://twitter.com/alejocaicedosac">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-	<a href="https://github.com/alcaen">
+	<a target='_blank' href="https://github.com/alcaen">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </div>
