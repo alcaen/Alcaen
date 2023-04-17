@@ -4,17 +4,8 @@
 
 <h2 align='center'>My tools</h2>
 <div align="center">
-<pictures>
-<sources 
-  srcset="https://skillicons.dev/icons?i=js,html,css,ts,py,react,docker,tailwind,nest,next,astro,figma,express,nodejs,git,github,c,vscode,arduino,md,materialui,mongo,mysql,postgres,redis,vercel,netlify,php,planetscale,postman,prisma,powershell,supabase,sass,githubactions,firebase,laravel,linux,matlab,redux,stackoverflow,vite&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<sources
-  srcset="https://skillicons.dev/icons?i=js,html,css,ts,py,react,docker,tailwind,nest,next,astro,figma,express,nodejs,git,github,c,vscode,arduino,md,materialui,mongo,mysql,postgres,redis,vercel,netlify,php,planetscale,postman,prisma,powershell,supabase,sass,githubactions,firebase,laravel,linux,matlab,redux,stackoverflow,vite&theme=light"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://skillicons.dev/icons?i=js,html,css,ts,py,react,docker,tailwind,nest,next,astro,figma,express,nodejs,git,github,c,vscode,arduino,md,materialui,mongo,mysql,postgres,redis,vercel,netlify,php,planetscale,postman,prisma,powershell,supabase,sass,githubactions,firebase,laravel,linux,matlab,redux,stackoverflow,vite" />
-</pictures>
+
+<img src="https://skillicons.dev/icons?i=js,html,css,ts,py,react,docker,tailwind,nest,next,astro,figma,express,nodejs,git,github,c,vscode,arduino,md,materialui,mongo,mysql,postgres,redis,vercel,netlify,php,planetscale,postman,prisma,powershell,supabase,sass,githubactions,firebase,laravel,linux,matlab,redux,stackoverflow,vite&theme=light" />
 
 </div>
 
