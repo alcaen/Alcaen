@@ -1,8 +1,6 @@
 <div align='center'>
-	<h2>Hi there, I'm <a target='_blank' href='https://portfolio-alcaen.vercel.app/'>Alcaen</a> Full Stack Developer 👋</h2>
+	<h2>Hi there, I'm <a target='_blank' href='https://portfolio-alcaen.vercel.app/'>Alcaen.</a> FullStack Developer 👋</h2>
 </div>
-
----
 
 <h2 align='center'>My tools</h2>
 <div align="center">
@@ -82,7 +80,7 @@
 
 <div align='right'>
   <img src='https://badgen.net/github/commits/alcaen/alcaen' />
-  <img src='https://badgen.net/github/tag/alcaen/alcaen' />
+  <img src='https://badgen.net/github/release/alcaen/alcaen' />
 </div>
 
 <!-- Tools used
