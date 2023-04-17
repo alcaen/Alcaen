@@ -28,8 +28,8 @@
 
 ---
 
-<div align='center'>
 <!-- GitHub Stats -->
+<div align='center'>
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=alcaen&show_icons=true&theme=tokyonight"
@@ -41,8 +41,10 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=alcaen&show_icons=true"/>
 </picture>
+</div>
 
 <!-- Streak -->
+<div align='center'>
 <picture>
 <source 
   srcset="https://github-readme-streak-stats.herokuapp.com/?user=alcaen&theme=tokyonight"
@@ -54,8 +56,10 @@
 />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alcaen" />
 </picture>
+</div>
 
 <!-- Most used Languajes -->
+<div align='center'>
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alcaen&layout=compact&hide_progress=true&theme=tokyonight"
@@ -67,7 +71,6 @@
 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcaen&layout=compact" />
 </picture>
-
 </div>
 
 ---
