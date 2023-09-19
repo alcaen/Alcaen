@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Service Desk**
 
-- 🌱 I’m currently learning **Laravel and React Native**
+- 🌱 I’m currently learning **Solidity & Hardhat**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-alcaen.vercel.app/projects](https://portfolio-alcaen.vercel.app/projects)
 
@@ -13,16 +13,16 @@
 
 - 📄 Know about my experiences [https://portfolio-alcaen.vercel.app/CV](https://portfolio-alcaen.vercel.app/CV)
 
-- ⚡ Fun fact **In love with Next Js**
+- ⚡ Fun fact **Jiu-Jitsu Cypherpunk**
 
-- 👻 Favorite tech **Next Js, Tailwind Css, tRpc, Prisma, TypeScript.**
+- 👻 Favorite tech **Next Js, Tailwind, tRpc, TypeScript & Blockchain.**
 
 </p>
 
 <h2 align='center'>Languages and Tools:</h2>
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,html,css,ts,py,react,docker,tailwind,nest,next,astro,figma,express,nodejs,git,github,c,vscode,arduino,md,materialui,mongo,mysql,postgres,redis,vercel,netlify,php,planetscale,postman,prisma,powershell,supabase,sass,githubactions,firebase,laravel,linux,matlab,redux,stackoverflow,vite&theme=light" />
+<img src="https://skillicons.dev/icons?i=js,html,css,ts,py,react,tailwind,nest,next,astro,figma,express,git,github,vscode,arduino,md,mongo,mysql,postgres,redis,vercel,planetscale,postman,prisma,supabase,sass,solidity,matlab,redux,stackoverflow,vite&theme=light" />
 
 </div>
 
