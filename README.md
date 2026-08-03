@@ -1,28 +1,38 @@
 <h1 align="center">Hi, I'm Alcaen 👋</h1>
-<h3 align="center">A passionate FullStack developer from Colombia</h3
+<h3 align="center">Technical Team Lead at Global DigiOps | Full-stack engineer | Homelab shinobi from Colombia</h3>
 
-<p align='left'>
+<p align="left">
 
-- 🔭 I’m currently working on **Service Desk**
+- 🔭 I’m currently building a **Proxmox VE Homelab**: my own little data center for infrastructure, experiments, and controlled chaos.
 
-- 🌱 I’m currently learning **Solidity & Hardhat**
+- 🤖 I’m exploring **AI agents**, including the **Hermes agent**, **Honcho memory**, vector databases, and retrieval-driven systems.
 
-- 👨‍💻 All of my projects are available at [https://portfolio-alcaen.vercel.app/projects](https://portfolio-alcaen.vercel.app/projects)
+- ⚙️ I’m automating workflows with **n8n**, connecting tools through **MCP**, and turning repetitive work into background magic.
 
-- 📫 How to reach me **alcaen.dev@gmail.com**
+- 👨‍💻 All of my projects are available at [portfolio-alcaen.vercel.app/projects](https://portfolio-alcaen.vercel.app/projects)
 
-- 📄 Know about my experiences [https://portfolio-alcaen.vercel.app/CV](https://portfolio-alcaen.vercel.app/CV)
+- 📫 How to reach me: **alcaen.dev@gmail.com**
 
-- ⚡ Fun fact **Jiu-Jitsu Cypherpunk**
+- 📄 Know about my experience in [my CV](https://portfolio-alcaen.vercel.app/CV)
 
-- 👻 Favorite tech **Next Js, Tailwind, tRpc, TypeScript & Blockchain.**
+- ⚡ Fun fact: **anime, Japan, Jiu-Jitsu, and cypherpunk energy**. I like my systems automated and my protagonists overpowered.
 
 </p>
+
+<div align="center">
+  <a href="https://i.redd.it/l5fyltniipta1.gif">
+    <img src="https://i.redd.it/l5fyltniipta1.gif" alt="AI Hoshino dancing" width="320" />
+  </a>
+  <br />
+  <a href="https://open.spotify.com/playlist/1vD00dpVNzqpkuZW19Sevh">
+    <img src="https://img.shields.io/badge/Spotify-Play_my_playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listen to my Spotify playlist" />
+  </a>
+</div>
 
 <h2 align='center'>Languages and Tools:</h2>
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,html,css,ts,py,react,tailwind,nest,next,astro,figma,express,git,github,vscode,arduino,md,mongo,mysql,postgres,redis,vercel,planetscale,postman,prisma,supabase,sass,solidity,matlab,redux,stackoverflow,vite&theme=light" />
+<img src="https://skillicons.dev/icons?i=js,html,css,ts,py,react,tailwind,nest,next,astro,figma,express,git,github,vscode,arduino,md,mongo,mysql,postgres,redis,vercel,planetscale,postman,prisma,supabase,sass,solidity,matlab,redux,stackoverflow,vite,linux,docker,kubernetes,proxmox,n8n,openai,qdrant&theme=light" />
 
 </div>
 
