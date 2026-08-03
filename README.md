@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alcaen 👋</h1>
-<h3 align="center">Technical Team Lead at Global DigiOps | Full-stack engineer | Homelab shinobi from Colombia</h3>
+<h3 align="center">Technical Team Lead at Global DigiOps | Full-stack engineer | Master en Tecnología Financiera: Blockchain &amp; Fintech</h3>
 
 <p align="left">
 
@@ -9,13 +9,17 @@
 
 - ⚙️ I’m automating workflows with **n8n**, connecting tools through **MCP**, and turning repetitive work into background magic.
 
+- ⛓️ I work with **Ethereum, Blockchain, FinTech, tokenization, real-world assets, and liquidity systems**.
+
+- 🐧 My daily setup is powered by **Arch Linux, Omarchy, and Neovim**.
+
 - 👨‍💻 All of my projects are available at [portfolio-alcaen.vercel.app/projects](https://portfolio-alcaen.vercel.app/projects)
 
 - 📫 How to reach me: **alcaen.dev@gmail.com**
 
 - 📄 Know about my experience in [my CV](https://portfolio-alcaen.vercel.app/CV)
 
-- ⚡ Fun fact: **anime, Japan, Jiu-Jitsu, and cypherpunk energy**. I like my systems automated and my protagonists overpowered.
+- ⚡ Fun fact: **Anime, Japan, Jiu-Jitsu, and cypherpunk energy**. I like my systems automated and leaving a piece of my soul and personality in everything I build.
 
 </p>
 
@@ -29,10 +33,17 @@
   </a>
 </div>
 
+<h2 align="center">Languages</h2>
+<div align="center">
+
+🇪🇸 Spanish: Native · 🇬🇧 English: Fluent (C1) · 🇯🇵 Japanese: Beginner (JLPT N5 in progress)
+
+</div>
+
 <h2 align='center'>Languages and Tools:</h2>
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,html,css,ts,py,react,tailwind,nest,next,astro,figma,express,git,github,vscode,arduino,md,mongo,mysql,postgres,redis,vercel,planetscale,postman,prisma,supabase,sass,solidity,matlab,redux,stackoverflow,vite,linux,docker,kubernetes,proxmox,n8n,openai,qdrant&theme=light" />
+<img src="https://skillicons.dev/icons?i=js,html,css,ts,py,react,tailwind,nest,next,astro,figma,express,git,github,vscode,arduino,md,mongo,mysql,postgres,redis,vercel,planetscale,postman,prisma,supabase,sass,solidity,matlab,redux,stackoverflow,vite,linux,arch,neovim,docker,kubernetes,proxmox,n8n,openai,qdrant&theme=light" />
 
 </div>
 
@@ -53,34 +64,11 @@
 </picture>
 </div>
 
-<!-- GitHub Stats -->
+<!-- Terminal-style GitHub Stats -->
 <div align='center'>
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=alcaen&show_icons=true&theme=tokyonight"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=alcaen&show_icons=true&theme=buefy"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=alcaen&show_icons=true"/>
-</picture>
-</div>
-
-<!-- Most used Languajes -->
-<div align='center'>
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alcaen&layout=compact&hide_progress=true&theme=tokyonight"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alcaen&layout=compact&hide_progress=true&theme=buefy"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcaen&layout=compact" />
-</picture>
+<a href="https://github.com/alcaen">
+  <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=alcaen&theme=tokyonight" alt="GitHub Stats Terminal" />
+</a>
 </div>
 
 ---
