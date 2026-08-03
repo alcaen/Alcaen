@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alcaen 👋</h1>
-<h3 align="center">Technical Team Lead at Global DigiOps | Full-stack engineer | Master en Tecnología Financiera: Blockchain &amp; Fintech</h3>
+<h3 align="center">Technical Team Lead at Global DigiOps | Full-stack engineer | M.Sc. in FinTech & Blockchain</h3>
 
 <p align="left">
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio-alcaen.vercel.app/projects](https://portfolio-alcaen.vercel.app/projects)
 
-- 📫 How to reach me: **alcaen.dev@gmail.com**
+- 📫 How to reach me: **<alcaen.dev@gmail.com>**
 
 - 📄 Know about my experience in [my CV](https://portfolio-alcaen.vercel.app/CV)
 
@@ -49,10 +49,17 @@
 
 ---
 
+<!-- Terminal-style GitHub Stats -->
+<div align='center'>
+<a href="https://github.com/alcaen">
+  <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=alcaen&theme=tokyonight" alt="GitHub Stats Terminal" />
+</a>
+</div>
+
 <!-- Streak -->
 <div align='center'>
 <picture>
-<source 
+<source
   srcset="https://github-readme-streak-stats.herokuapp.com/?user=alcaen&theme=tokyonight"
   media="(prefers-color-scheme: dark)"
 />
@@ -64,13 +71,6 @@
 </picture>
 </div>
 
-<!-- Terminal-style GitHub Stats -->
-<div align='center'>
-<a href="https://github.com/alcaen">
-  <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=alcaen&theme=tokyonight" alt="GitHub Stats Terminal" />
-</a>
-</div>
-
 ---
 
 <!-- Connect -->
@@ -79,13 +79,13 @@
   <a target='_blank' href="https://www.linkedin.com/in/alcaen/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-	<a target='_blank' href="https://discordapp.com/users/325795253619785729">
+ <a target='_blank' href="https://discordapp.com/users/325795253619785729">
     <img src="https://skillicons.dev/icons?i=discord" />
-	</a>
-	<a target='_blank' href="https://twitter.com/alejocaicedosac">
+ </a>
+ <a target='_blank' href="https://twitter.com/alejocaicedosac">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-	<a target='_blank' href="https://github.com/alcaen">
+ <a target='_blank' href="https://github.com/alcaen">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </div>
